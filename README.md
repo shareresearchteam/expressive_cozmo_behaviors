@@ -1,5 +1,5 @@
 # expressive_cozmo_behaviors
-Open-source repository of expressive Cozmo robot behaviors.
+Open-source repository of expressive Cozmo robot behaviors. There are a total of 8 categories: Active, Active Pleasant, Active Unpleasant, Inactive, Inactive Pleasant, Inactive Unpleasant, Pleasant, and Unpleasant. These categories are evenly spread across Russell's circumplex model of affect. Each of these categories have 4 Python codes for Cozmo emotive animations. 
 
 
 
