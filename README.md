@@ -2,20 +2,20 @@
 This repository contains the source code for expressive behaviors for the Anki Cozmo Robot. These behaviors belong to eight categories: Active, Active Pleasant, Active Unpleasant, Inactive, Inactive Pleasant, Inactive Unpleasant, Pleasant, and Unpleasant. These categories were designed to spread evenly across Russell's circumplex model of affect. Each of these categories has four associated behaviors. In each category, there is a "Videos" folder and a "Python Codes" folder, which respectively contain the videos and Python scripts of the 4 Cozmo emotive actions. The behavior design and evaluation efforts are further described in an International Conference on Robotics and Automation (ICRA) 2021 paper submission that is currently under review.
 
 # Folders and their contents
-**Active Pleasant:**   
-AP_Amazed, AP_Celebratory, AP_Excited, AP_Victorious  
+**Pleasant Active:**   
+PA_Amazed, PA_Celebratory, PA_Excited, PA_Victorious  
 
-**Active Unpleasant:**  
-AU_Afraid, AU_Angry_1, AU_Angry_2, AU_Disgusted  
+**Unpleasant Active:**  
+UA_Afraid, UA_Angry_1, UA_Angry_2, UA_Disgusted  
 
 **Active:**  
 A_Race, A_Spin, A_Square, A_Twitch  
 
-**Inactive Pleasant:**  
-IP_Contemplating, IP_Content_1, IP_Content_2, IP_Glad 
+**Pleasant Inactive:**  
+PI_Contemplating, PI_Content_1, PI_Content_2, PI_Glad 
 
-**Inactive Unpleasant:**  
-IU_Bored, IU_Glare, IU_Grumpy, IU_Sad  
+**Unpleasant Inactive:**  
+UI_Bored, UI_Glare, UI_Grumpy, IU_Sad  
 
 **Inactive:**   
 I_Blink, I_Lift_Head, I_Looking, I_Sleepy  
