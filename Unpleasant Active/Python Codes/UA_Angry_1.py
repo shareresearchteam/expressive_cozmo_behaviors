@@ -1,6 +1,6 @@
 '''
 Animation: Angry_1
-Category: Active Unpleasant
+Category: Unpleasant Active
 This animation was created by Lilian Chan of the Oregon State University Share Lab
 '''
 

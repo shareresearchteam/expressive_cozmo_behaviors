@@ -1,8 +1,8 @@
 '''
 Animation: Victorious
-Category: Active Pleasant
+Category: Pleasant Active
 This animation was created by Lilian Chan of the Oregon State University Share Lab
-NOTE: Start this animation with Cozmo on his butt
+NOTE: Start this animation with Cozmo on its rear end
 '''
 
 import cozmo

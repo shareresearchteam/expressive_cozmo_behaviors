@@ -1,6 +1,6 @@
 '''
 Animation: Glad
-Category: Inactive Pleasant
+Category: Pleasant Inactive
 This animation was created by Lilian Chan of the Oregon State University Share Lab
 '''
 

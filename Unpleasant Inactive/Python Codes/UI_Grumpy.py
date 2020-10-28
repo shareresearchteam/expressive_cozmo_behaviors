@@ -1,6 +1,6 @@
 '''
 Animation: Grumpy
-Category: Inactive Unpleasant
+Category: Unpleasant Inactive
 This animation was created by Lilian Chan of the Oregon State University Share Lab
 '''
 

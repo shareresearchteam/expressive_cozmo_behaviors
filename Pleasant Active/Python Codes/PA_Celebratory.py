@@ -1,6 +1,6 @@
 '''
 Animation: Celebratory
-Category: Active Pleasant
+Category: Pleasant Active
 This animation was created by Lilian Chan of the Oregon State University Share Lab
 '''
 
